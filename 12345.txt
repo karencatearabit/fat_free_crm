@@ -1,7 +1,0 @@
-0x1e5d00
-assets-library://asset/asset.JPG?id=2542AB14-F7C5-4207-BB79-0B13D665F539&ext=JPG
-
-////
-
-0x182fd0
-assets-library://asset/asset.JPG?id=5D93DC5A-40C8-4694-AE07-4EBC035A10E5&ext=JPG
